@@ -1,0 +1,4 @@
+gridfinity/rebuilt-bins/build/bin-4x2x6-split1y.stl: \
+	/home/mtippett/git/personal/monoscad/libraries/gridfinity-rebuilt-openscad/standard.scad \
+	/home/mtippett/git/personal/monoscad/libraries/gridfinity-rebuilt-openscad/gridfinity-rebuilt-utility.scad \
+	gridfinity/rebuilt-bins/bin.scad
